@@ -1,1 +1,1 @@
-# reabiz-site-temporary
+# 臨時のリアビズ用サイト
